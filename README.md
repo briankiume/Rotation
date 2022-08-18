@@ -1,4 +1,5 @@
-# GapBinary
+# Rotation
+
 My solution to Codility training [test](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
 
 ## Description
